@@ -1,6 +1,6 @@
 /*
- * Copyright (c) 2019 Etix / Intellimark, Inc - All Rights Reserved.
- * This file is part of 'web-app', unauthorized copying of this file, via any medium is strictly prohibited.
+ * Copyright (c) 2019 Hymin Roberts - All Rights Reserved.
+ * This file is part of Personal Practice, unauthorized copying of this file, via any medium is strictly prohibited.
  */
 
 package com.etix.api.salesforce;
